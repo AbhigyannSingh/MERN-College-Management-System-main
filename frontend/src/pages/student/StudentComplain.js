@@ -83,7 +83,7 @@ const StudentComplain = () => {
                                 />
                                 <TextField
                                     fullWidth
-                                    label="Write your complain"
+                                    label="Write your complaint"
                                     variant="outlined"
                                     value={complaint}
                                     onChange={(event) => {
